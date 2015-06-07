@@ -1,0 +1,2 @@
+Toy{name="Doll", type="doll", minAge=2, maxAge=5, price=100, parameter=30, units="cm"}
+Toy{name="Doll", type="doll", minAge=3, maxAge=15, price=120, parameter=30, units="cm"}
